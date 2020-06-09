@@ -2,13 +2,9 @@
 
 This GitHub project is an interactive resume for Mr. Rushabh M. Shah.
 
-<br />
-
 ### Technologies used:
 - Materialize CSS Framework
 - jQuery
-
-<br />
 
 ## CHANGE LOG
 
