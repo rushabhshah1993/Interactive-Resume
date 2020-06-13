@@ -8,6 +8,10 @@ This GitHub project is an interactive resume for Mr. Rushabh M. Shah.
 
 ## CHANGE LOG
 
+#### [June 13, 2020]
+
+- Updated the gh-pages branch with the latest changes.
+
 #### [June 09, 2020] 
 
 - Updated the career changes.
