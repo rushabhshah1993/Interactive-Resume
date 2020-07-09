@@ -21,4 +21,4 @@ This GitHub project is an interactive resume for Mr. Rushabh M. Shah.
 <hr />
 
 #### [September 22, 2017] 
-Initial commit
+Initial commit.
